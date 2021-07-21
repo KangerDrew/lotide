@@ -1,5 +1,3 @@
-
-
 const assertArraysEqual = function(ar1, ar2) {
   let st;
   if (ar1.length === ar2.length) {
@@ -15,7 +13,6 @@ const assertArraysEqual = function(ar1, ar2) {
   } else {
     st = false;
   }
-  console.log (st);
 
   if (st === true) {
     console.log(`✅✅✅ Assertion Passed: ${ar1} === ${ar2}`);
