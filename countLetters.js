@@ -20,6 +20,6 @@ const countLetters = function(string) {
   return letters;
 };
 
-assertEqual(countLetters("touch")['t'], 1)
-assertEqual(countLetters("loseyourselftodance")['o'], 3)
-assertEqual(countLetters("instantcrush")['s'], 2)
+assertEqual(countLetters("touch")['t'], 1);
+assertEqual(countLetters("loseyourselftodance")['o'], 3);
+assertEqual(countLetters("instantcrush")['s'], 2);
