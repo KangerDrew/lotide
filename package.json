@@ -1,8 +1,8 @@
 {
-  "name": "lotide",
-  "version": "1.0.0",
-  "description": "",
-  "main": "assertArraysEqual.js",
+  "name": "@kangerdrew/lotide",
+  "version": "1.0.1",
+  "description": "A mini clone of the [Lodash](https://lodash.com) library.",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/KangerDrew/lotide.git"
   },
-  "author": "",
+  "author": "Drew Kang <kangdrew95@gmail.com> (https://www.linkedin.com/in/drew-b-kang/)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/KangerDrew/lotide/issues"
